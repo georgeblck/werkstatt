@@ -1,0 +1,100 @@
+[[items]]
+title = "Wissenschaftliche Arbeiten"
+image = "images/full/1_1.png"
+thumb = "images/thumbs/1.png"
+alt = "WissArbeiten"
+description = """
+<br>
+Sitzt du gerade vor dem Datensatz deiner Haus-, Bachelor- oder Doktorarbeitund und weißt nicht genau was du machen sollst?
+<br>
+Egal ob SPSS, Stata oder R, egal welches Fach, solange quantitative Methoden verwendet werden,
+helfe ich dir gerne bei der Ausarbeitung deiner Datenanalyse.
+<br><br>
+Schreib mir dazu am besten eine Nachricht in der du kurz deine Fragestellung erläuterst.
+<br>
+<a href="mailto:statistikwerkstatt@posteo.de">Melde dich</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+"""
+url="http://statistikwerkstatt.org"
+[[items]]
+title = "Nachhilfe"
+image = "images/full/2_1.png"
+thumb = "images/thumbs/2.png"
+alt = "Hugrid Theme"
+description = """
+Wenn du oder deine Freunde Nachhilfe für eine Statistik-Vorlesung nötig habt, könnt ihr euch gerne bei mir melden.
+<br>
+Je nachdem wie viel und wie intensiv du Hilfe benötigst,
+kostet eine Nachhilfestunde mehr als der normale Stundensatz da ich mich darauf seperat vorbereiten muss.
+Dafür hat die Gruppengröße keinen Einfluss auf den Stundensatz.
+<br><br>
+Am besten schickst du mir einfach deine Unterlagen zu der Vorlesung und erklärst kurz inwieweit du Hilfe brauchst.
+<br>
+<a href="mailto:statistikwerkstatt@posteo.de">Melde dich</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+"""
+url="http://statistikwerkstatt.org"
+[[items]]
+title = "Sonstige Projekte"
+image = "images/full/3_1.png"
+thumb = "images/thumbs/3.png"
+alt = "Sonstiges"
+description = """
+<br>
+Der einfachste Fall: Wenn du konkrete oder unkonkrete Projekte hast bei denen
+Statistik in irgendeiner Form eine Rolle spielt und du jemanden suchst mit dem du dich darüber austauschen kannst,
+schreib mir eine kurze Nachricht und wir machen einen Termin aus.
+<br>
+<a href="mailto:statistikwerkstatt@posteo.de">Melde dich</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+"""
+url="http://statistikwerkstatt.org"
+[[items]]
+title = ""
+image = "images/full/5_1.png"
+thumb = "images/thumbs/5.png"
+alt = "WerWieWas"
+description = """
+<h2>Wieso</h2>
+Während meines Studiums habe ich sowohl als Tutor Statistikkurse & Nachhilfe angeboten als auch im erweiterten Freundskreis
+bei vielen empirischen Bachelor- und Masterarbeiten mitgeholfen.
+Jetzt arbeite ich in Teilzeit an einer Forschungseinrichtung und möchte mit der <strong>StatistikWerkstatt</strong>
+eine Anlaufstelle in Leipzig anbieten, gemeinsam mit Statistik zu arbeiten.
+<br><br>
+<h2>Bezahlung</h2>
+Eine erste Beratung zu deinen Problemen ist immer kostenfrei.
+Wenn du mehr als einen groben Fahrplan für deine Arbeit/dein Projekt benötigst kostet eine Stunde 8€.
+Der Preis für Nachhilfestunden wird individuell ausgehandelt, teuer wird es aber auch nicht (besonders für Gruppen).
+<br><br>
+<h2>Kontakt</h2>
+<a href="mailto:statistikwerkstatt@posteo.de">Per Mail</a>
+<a href="http://www.facebook.com/statistikwerkstatt.org" target="_blank">Per Facebook</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+"""
+url="http://statistikwerkstatt.org"
+[[items]]
+title = "Datenvisualisierung: <br>Flüchtlinge (in Arbeit)"
+image = "images/full/ref.png"
+thumb = "images/thumbs/ref.png"
+alt = "Refugees"
+description = """
+<br>
+Was wäre wenn die EU <strong>alle Asylanträge</strong> der letzten Jahre annehmen würde und
+diese nach fairen Kriterien (BIP, Bevölkerungsanzahl, Arbeitslosigkeit, Asylbelastung) auf die Mitgliedsstaaten verteilen würde?
+<br><br/>
+Und wie vergleicht sich diese <strong>faire</strong> Verteilung mit der Realität?
+<br>
+<a href="http://statistikwerkstatt.org:3838" target="_blank">Zur Datenvisualisierung (englisch)</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+"""
+url="http://statistikwerkstatt.org"
