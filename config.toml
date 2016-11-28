@@ -27,4 +27,4 @@ publishdir = "public"
     buttontext = "Zurück zur Seite"
 
     # Footer text
-    footertext = "Layout made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [aerohub](https://github.com/aerohub)"
+    footertext = "Created with [Hugo](http://gohugo.io) and a theme from [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) and [aerohub](https://github.com/aerohub)<br>Hosted on a eco-friendly server by [manitu](https://www.manitu.de/)"
