@@ -4,7 +4,7 @@ languageCode = "de-DE"
 title = "StatistikWerkstatt Leipzig"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXXXXX-Y"
+#googleAnalytics = "UA-XXXXXXXX-Y"
 
 contentdir = "content"
 datadir = "data"
@@ -27,4 +27,4 @@ publishdir = "public"
     buttontext = "Zurück zur Seite"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [aerohub](https://github.com/aerohub)"
+    footertext = "Layout made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [aerohub](https://github.com/aerohub)"
