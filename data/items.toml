@@ -34,6 +34,9 @@ Am besten schickst du mir einfach deine Unterlagen zu der Vorlesung, erklärst k
 <br><br><br>
 <br><br><br>
 <br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 """
 url="http://statistikwerkstatt.org"
 [[items]]
@@ -48,6 +51,9 @@ Statistik in irgendeiner Form eine Rolle spielt und du jemanden suchst mit dem d
 schreib mir eine kurze Nachricht und wir machen einen Termin aus.
 <br>
 <a href="mailto:statistikwerkstatt@posteo.de">Melde dich und komm vorbei</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 <br><br><br>
 <br><br><br>
 <br><br><br>
@@ -76,6 +82,9 @@ Der Preis für Nachhilfestunden wird individuell ausgehandelt, teuer wird es abe
 <br><br><br>
 <br><br><br>
 <br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 """
 url="http://statistikwerkstatt.org"
 [[items]]
@@ -90,7 +99,10 @@ diese nach fairen Kriterien (BIP, Bevölkerungsanzahl, Arbeitslosigkeit, Asylbel
 <br><br/>
 Und wie vergleicht sich diese <strong>faire</strong> Verteilung mit der Realität?
 <br>
-<a href="http://statistikwerkstatt.org:3838" target="_blank">Zur Datenvisualisierung (englisch)</a>
+<a href="http://statistikwerkstatt.org/shiny/refugee-distribution/shiny/" target="_blank">Zur Datenvisualisierung (englisch)</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 <br><br><br>
 <br><br><br>
 <br><br><br>
