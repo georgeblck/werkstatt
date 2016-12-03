@@ -5,7 +5,7 @@ thumb = "images/thumbs/1.png"
 alt = "WissArbeiten"
 description = """
 <br>
-Sitzt du gerade vor dem Datensatz deiner Haus-, Bachelor- oder Doktorarbeit und und weißt nicht genau was du machen sollst?
+Verzweifelst du gerade an dem Datensatz deiner Haus-, Bachelor- oder Doktorarbeit?
 <br>
 Egal ob SPSS, Stata oder R, egal welches Fach, solange quantitative Methoden verwendet werden,
 helfe ich dir gerne bei der Ausarbeitung deiner Datenanalyse.
@@ -13,6 +13,9 @@ helfe ich dir gerne bei der Ausarbeitung deiner Datenanalyse.
 Schreib mir dazu am besten eine Nachricht in der du kurz deine Fragestellung erläuterst.
 <br>
 <a href="mailto:statistikwerkstatt@posteo.de">Melde dich und komm vorbei</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 <br><br><br>
 <br><br><br>
 <br><br><br>
@@ -37,6 +40,9 @@ Am besten schickst du mir einfach deine Unterlagen zu der Vorlesung, erklärst k
 <br><br><br>
 <br><br><br>
 <br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 """
 url="http://statistikwerkstatt.org"
 [[items]]
@@ -51,6 +57,9 @@ Statistik in irgendeiner Form eine Rolle spielt und du jemanden suchst mit dem d
 schreib mir eine kurze Nachricht und wir machen einen Termin aus.
 <br>
 <a href="mailto:statistikwerkstatt@posteo.de">Melde dich und komm vorbei</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 <br><br><br>
 <br><br><br>
 <br><br><br>
@@ -85,6 +94,9 @@ Der Preis für Nachhilfestunden wird individuell ausgehandelt, teuer wird es abe
 <br><br><br>
 <br><br><br>
 <br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 """
 url="http://statistikwerkstatt.org"
 [[items]]
@@ -100,6 +112,9 @@ diese nach fairen Kriterien (BIP, Bevölkerungsanzahl, Arbeitslosigkeit, Asylbel
 Und wie vergleicht sich diese <strong>faire</strong> Verteilung mit der Realität?
 <br>
 <a href="http://statistikwerkstatt.org/shiny/refugee-distribution/shiny/" target="_blank">Zur Datenvisualisierung (englisch)</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 <br><br><br>
 <br><br><br>
 <br><br><br>
