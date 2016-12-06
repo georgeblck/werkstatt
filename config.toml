@@ -1,10 +1,15 @@
 # Site settings
+#to-do: refugees thumb ersetzen
+# farben
+# shiny reparieren
+# utf8 sache regeln
+# text noch ein bisschen besser
 baseurl = "http://example.org/"
 languageCode = "de-DE"
 title = "StatistikWerkstatt Leipzig"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
-#googleAnalytics = "UA-XXXXXXXX-Y"
+googleAnalytics = "UA-88567681-1"
 
 contentdir = "content"
 datadir = "data"
@@ -20,11 +25,12 @@ publishdir = "public"
     keywords = "Hugo, Statistik, Leipzig"
 
     # Body background color
-	  #bodybgcolor = "#f9f9f9" white
-    bodybgcolor = "#dbb569"
+	  bodybgcolor = "#f9f9f9"
+    #bodybgcolor = "#dbb569" old
+    #bodytextcolor = "#dbb569"
 
     # Preview container button text
     buttontext = "Zurück zur Seite"
 
     # Footer text
-    footertext = "Created with [Hugo](http://gohugo.io) and a theme from [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) and [aerohub](https://github.com/aerohub)<br>Hosted on an eco-friendly server by [manitu](https://www.manitu.de/)<br>[Impressum](http://www.statistikwerkstatt.org/impressum.html)"
+    footertext = "Created with [Hugo](http://gohugo.io) and a theme from [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) and [aerohub](https://github.com/aerohub)<br>Hosted on an eco-friendly server by [manitu](https://www.manitu.de/)<br>[Imprint](http://www.statistikwerkstatt.org/impressum.html)"

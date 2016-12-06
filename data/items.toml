@@ -1,7 +1,7 @@
 [[items]]
 title = "Wissenschaftliche Arbeiten"
 image = "images/full/1_1.png"
-thumb = "images/thumbs/1.png"
+thumb = "images/thumbs/yellow.png"
 alt = "WissArbeiten"
 description = """
 <br>
@@ -24,7 +24,7 @@ url="http://statistikwerkstatt.org"
 [[items]]
 title = "Nachhilfe"
 image = "images/full/2_1.png"
-thumb = "images/thumbs/2.png"
+thumb = "images/thumbs/blue.png"
 alt = "Hugrid Theme"
 description = """
 Wenn du und/oder deine Freunde Nachhilfe für eine Statistik-Vorlesung nötig habt, könnt ihr euch gerne bei mir melden.
@@ -48,7 +48,7 @@ url="http://statistikwerkstatt.org"
 [[items]]
 title = "Sonstige Projekte"
 image = "images/full/3_1.png"
-thumb = "images/thumbs/3.png"
+thumb = "images/thumbs/red.png"
 alt = "Sonstiges"
 description = """
 <br>
@@ -71,7 +71,7 @@ url="http://statistikwerkstatt.org"
 [[items]]
 title = ""
 image = "images/full/5_1.png"
-thumb = "images/thumbs/5.png"
+thumb = "images/thumbs/grey.png"
 alt = "WerWieWas"
 description = """
 <h2>Beweggründe</h2>
