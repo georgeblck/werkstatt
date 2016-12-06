@@ -1,9 +1,5 @@
 # Site settings
 #to-do: refugees thumb ersetzen
-# farben
-# shiny reparieren
-# utf8 sache regeln
-# text noch ein bisschen besser
 baseurl = "http://example.org/"
 languageCode = "de-DE"
 title = "StatistikWerkstatt Leipzig"
@@ -25,7 +21,7 @@ publishdir = "public"
     keywords = "Hugo, Statistik, Leipzig"
 
     # Body background color
-	  bodybgcolor = "#f9f9f9"
+	  bodybgcolor = "#ddd"
     #bodybgcolor = "#dbb569" old
     #bodytextcolor = "#dbb569"
 
