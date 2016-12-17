@@ -15,10 +15,10 @@ publishdir = "public"
 [params]
     # Meta
     title = "StatistikWerkstatt Leipzig"
-    subtitle = "Statistik statt Räder - offene Selbsthilfewerkstatt für statistische Fragen&Probleme"
+    subtitle = "Offene Selbsthilfewerkstatt für statistische Fragen&Probleme"
     author = "George Black"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Statistik, Leipzig"
+    description = "Offene Selbsthilfewerkstatt für statistische Fragen&Probleme im Leipziger Westen"
+    keywords = "Hilfe, Statistik, Leipzig, Nachhilfe, Daten, Auswertung, Statistics"
 
     # Body background color
 	  bodybgcolor = "#ddd"
