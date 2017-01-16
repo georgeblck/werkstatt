@@ -1,7 +1,7 @@
 [[items]]
 title = "Wissenschaftliche Arbeiten"
 image = "images/full/1_1.png"
-thumb = "images/thumbs/yellow.png"
+thumb = "images/thumbs/1.png"
 alt = "WissArbeiten"
 description = """
 <br>
@@ -24,7 +24,7 @@ url="http://statistikwerkstatt.org"
 [[items]]
 title = "Nachhilfe"
 image = "images/full/2_1.png"
-thumb = "images/thumbs/blue.png"
+thumb = "images/thumbs/2.png"
 alt = "Hugrid Theme"
 description = """
 Wenn du und/oder deine Freunde Nachhilfe für eine Statistik-Vorlesung nötig habt, könnt ihr euch gerne bei mir melden.
@@ -48,7 +48,7 @@ url="http://statistikwerkstatt.org"
 [[items]]
 title = "Sonstige Projekte"
 image = "images/full/3_1.png"
-thumb = "images/thumbs/red.png"
+thumb = "images/thumbs/3.png"
 alt = "Sonstiges"
 description = """
 <br>
@@ -71,7 +71,7 @@ url="http://statistikwerkstatt.org"
 [[items]]
 title = ""
 image = "images/full/5_1.png"
-thumb = "images/thumbs/grey.png"
+thumb = "images/thumbs/lilac.png"
 alt = "WerWieWas"
 description = """
 <h2>Beweggründe</h2>
@@ -101,8 +101,8 @@ Der Preis für Nachhilfestunden wird individuell ausgehandelt, teuer wird es abe
 url="http://statistikwerkstatt.org"
 [[items]]
 title = "Datenvisualisierung: <br>Flüchtlinge (in Arbeit)"
-image = "images/full/ref.png"
-thumb = "images/thumbs/ref.png"
+image = "images/full/ref4.jpg"
+thumb = "images/thumbs/ref4.jpg"
 alt = "Refugees"
 description = """
 <br>
@@ -112,6 +112,7 @@ diese nach fairen Kriterien (BIP, Bevölkerungsanzahl, Arbeitslosigkeit, Asylbel
 Und wie vergleicht sich diese <strong>faire</strong> Verteilung mit der Realität?
 <br>
 <a href="http://statistikwerkstatt.org/shiny/refugee-distribution/shiny/" target="_blank">Zur Datenvisualisierung (englisch)</a>
+<a href="http://statistikwerkstatt.org/shiny/refugee-verteilung/shiny/" target="_blank">Zur Datenvisualisierung (deutsch)</a>
 <br><br><br>
 <br><br><br>
 <br><br><br>

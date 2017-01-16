@@ -21,8 +21,8 @@ publishdir = "public"
     keywords = "Hilfe, Statistik, Leipzig, Nachhilfe, Daten, Auswertung, Statistics"
 
     # Body background color
-	  bodybgcolor = "#ddd"
-    #bodybgcolor = "#dbb569" old
+	  #bodybgcolor = "#ddd"
+    bodybgcolor = "#dbb569"# old
     #bodytextcolor = "#dbb569"
 
     # Preview container button text
