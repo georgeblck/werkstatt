@@ -1,6 +1,6 @@
 # Site settings
 #to-do: refugees thumb ersetzen
-baseurl = "http://example.org/"
+baseurl = "http://statistikwerkstatt.org/"
 languageCode = "de-DE"
 title = "StatistikWerkstatt Leipzig"
 theme = "hugrid"
