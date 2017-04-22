@@ -27,6 +27,7 @@ image = "images/full/2_1.png"
 thumb = "images/thumbs/2.png"
 alt = "Hugrid Theme"
 description = """
+<br>
 Wenn du und/oder deine Freunde Nachhilfe für eine Statistik-Vorlesung nötig habt, könnt ihr euch gerne bei mir melden.
 <br>
 Je nachdem wie viel und wie intensiv du Hilfe benötigst muss ich mich auf Nachhilfestunden seperat vorbereiten, also ist das eine nicht so spontante Sache.
@@ -55,7 +56,8 @@ description = """
 Der einfachste Fall: Wenn du konkrete oder unkonkrete Projekte hast bei denen
 Statistik in irgendeiner Form eine Rolle spielt und du jemanden suchst mit dem du dich darüber austauschen kannst,
 schreib mir eine kurze Nachricht und wir machen einen Termin aus.
-<br>
+<br><br>
+Als Inspiration befinden sich auf dieser Seite ab und zu private statistische Projekte.<br>
 <a href="mailto:statistikwerkstatt@posteo.de">Melde dich und komm vorbei</a>
 <br><br><br>
 <br><br><br>
@@ -69,25 +71,76 @@ schreib mir eine kurze Nachricht und wir machen einen Termin aus.
 """
 url="http://statistikwerkstatt.org"
 [[items]]
-title = ""
+title = "Beweggründe"
 image = "images/full/5_1.png"
 thumb = "images/thumbs/lilac.png"
 alt = "WerWieWas"
 description = """
-<h2>Beweggründe</h2>
+<br>
 Während meines Studiums habe ich sowohl als Tutor Statistikkurse & Nachhilfe angeboten als auch im erweiterten Freundskreis
 bei vielen empirischen Bachelor- und Masterarbeiten mitgeholfen.
+<br>
 Jetzt arbeite ich in Teilzeit an einer Forschungseinrichtung und möchte mit der <strong>StatistikWerkstatt</strong>
 eine Anlaufstelle in Leipzig anbieten, gemeinsam mit Statistik zu arbeiten.
-<br><br>
-<h2>Bezahlung</h2>
-Eine erste Beratung zu deinen Problemen ist immer kostenfrei.
-Wenn du mehr als einen groben Fahrplan für deine Arbeit/dein Projekt benötigst kostet eine Stunde 8€.
-Der Preis für Nachhilfestunden wird individuell ausgehandelt, teuer wird es aber auch nicht (besonders für Gruppen).
 <br><br>
 <h2>Kontakt</h2>
 <a href="mailto:statistikwerkstatt@posteo.de">Per Mail</a>
 <a href="http://www.facebook.com/statistikwerkstatt.org" target="_blank">Per Facebook</a>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+"""
+[[items]]
+title = "Bezahlung"
+image = "images/full/green.png"
+thumb = "images/thumbs/green.png"
+alt = "Kosten"
+description = """
+<br>
+<i>Anmerkung</i>: Die hier aufgelisteten Kosten sind nicht in Stein gemeißelt sondern dienen als Richtlinie. <br><br>
+Eine erste Beratung zu deinen Problemen ist immer kostenfrei.<br>
+Wenn du mehr als einen groben Fahrplan für deine Arbeit/dein Projekt benötigst sind die Stundenpreise wie folgt:
+<br><br>
+&bull; Haus- oder Bachelorarbeit: 12€<br>
+&bull; Master- oder Doktorarbeit: 14€<br>
+&bull; Sonstige Projekte: 12€<br>
+<br>
+Der Preis für Nachhilfestunden hängt sowohl vom Schwierigkeitsgrad als auch der Gruppengröße ab und wird deswegen einzeln ausgehandelt.
+Für Einzel-Nachhilfe könnt Ihr euch an den Preisen für Abschlussarbeiten orientieren.
+<br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+"""
+url="http://statistikwerkstatt.org"
+[[items]]
+title = "Nützliche Links"
+image = "images/full/dreamit.png"
+thumb = "images/thumbs/dreamit.png"
+alt = "dreamit"
+description = """
+<h2>Statistik</h2>
+<a href="https://www.discoveringstatistics.com/books/dsus/" target ="_blank">Buchempfehlung SPSS</a>
+<a href="http://matheguru.com/stochastik/272-korrelation.html#Wann_welchen_Korrelationskoeffizienten_einsetzen_Tabelle-29" target="_blank">Übersicht vieler Zusammenhangsmaße</a>
+<a href="http://www.methodenberatung.uzh.ch/de/datenanalyse.html" target="_blank">Interaktive Methodenberatung der Uni Zürich</a>
+<br><br>
+<h2>Leipzig</h2>
+<a href="http://www.schwarzdrucke.org" target="_blank">Schwarz Druck</a>
+<a href="http://www.schwarzwurzel.org" target="_blank">Die Schwarzwurzel</a>
+<br><br><br>
+<br><br><br>
 <br><br><br>
 <br><br><br>
 <br><br><br>
