@@ -1,11 +1,11 @@
 # Site settings
 #to-do: refugees thumb ersetzen
-baseurl = "http://statistikwerkstatt.org/"
+baseurl = "https://statistikwerkstatt.org/"
 languageCode = "de-DE"
 title = "StatistikWerkstatt Leipzig"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-88567681-1"
+#googleAnalytics = "UA-88567681-1"
 
 contentdir = "content"
 datadir = "data"
@@ -29,4 +29,4 @@ publishdir = "public"
     buttontext = "Zurück zur Seite"
 
     # Footer text
-    footertext = "Created with [Hugo](http://gohugo.io) and a theme from [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) and [aerohub](https://github.com/aerohub)<br>Hosted on an eco-friendly server by [manitu](https://www.manitu.de/)<br>[Imprint](http://www.statistikwerkstatt.org/impressum.html)"
+    footertext = "Created with [Hugo](http://gohugo.io) and a theme from [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/) and [aerohub](https://github.com/aerohub)<br>Hosted on an eco-friendly server by [manitu](https://www.manitu.de/)<br>[Imprint](https://www.statistikwerkstatt.org/impressum.html)"

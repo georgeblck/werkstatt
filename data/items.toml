@@ -20,7 +20,7 @@ Schreib mir dazu am besten eine Nachricht in der du kurz deine Fragestellung erl
 <br><br><br>
 <br><br><br>
 """
-url="http://statistikwerkstatt.org"
+url="https://statistikwerkstatt.org"
 [[items]]
 title = "Nachhilfe"
 image = "images/full/2_1.png"
@@ -45,7 +45,7 @@ Am besten schickst du mir einfach deine Unterlagen zu der Vorlesung, erklärst k
 <br><br><br>
 <br><br><br>
 """
-url="http://statistikwerkstatt.org"
+url="https://statistikwerkstatt.org"
 [[items]]
 title = "Sonstige Projekte"
 image = "images/full/3_1.png"
@@ -69,7 +69,7 @@ Als Inspiration befinden sich auf dieser Seite ab und zu private statistische Pr
 <br><br><br>
 <br><br><br>
 """
-url="http://statistikwerkstatt.org"
+url="https://statistikwerkstatt.org"
 [[items]]
 title = "Beweggründe"
 image = "images/full/5_1.png"
@@ -124,7 +124,7 @@ Für Einzel-Nachhilfe könnt Ihr euch an den Preisen für Abschlussarbeiten orie
 <br><br><br>
 <br><br><br>
 """
-url="http://statistikwerkstatt.org"
+url="https://statistikwerkstatt.org"
 [[items]]
 title = "Nützliche Links"
 image = "images/full/dreamit.png"
@@ -151,7 +151,7 @@ description = """
 <br><br><br>
 <br><br><br>
 """
-url="http://statistikwerkstatt.org"
+url="https://statistikwerkstatt.org"
 [[items]]
 title = "Datenvisualisierung: <br>Flüchtlinge (in Arbeit)"
 image = "images/full/small.png"
@@ -176,4 +176,4 @@ Und wie vergleicht sich diese <strong>faire</strong> Verteilung mit der Realitä
 <br><br><br>
 <br><br><br>
 """
-url="http://statistikwerkstatt.org"
+url="https://statistikwerkstatt.org"
