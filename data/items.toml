@@ -1,11 +1,11 @@
 [[items]]
 title = "Wissenschaftliche Arbeiten"
-image = "images/full/1_1.png"
+image = "images/full/1_pencil.png"
 thumb = "images/thumbs/1.png"
 alt = "WissArbeiten"
 description = """
 <br>
-Verzweifelst du gerade an dem Datensatz deiner Haus-, Bachelor- oder Doktorarbeit?
+Verzweifelst du gerade an dem Datensatz deiner Bachelor-, Master- oder Doktorarbeit?
 <br>
 Egal ob SPSS, Stata oder R, egal welches Fach, solange quantitative Methoden verwendet werden,
 helfe ich dir gerne bei der Ausarbeitung deiner Datenanalyse.
@@ -72,20 +72,22 @@ Als Inspiration befinden sich auf dieser Seite ab und zu private statistische Pr
 url="https://statistikwerkstatt.org"
 [[items]]
 title = "Beweggründe"
-image = "images/full/5_1.png"
+image = "images/full/5_gblack.png"
 thumb = "images/thumbs/lilac.png"
 alt = "WerWieWas"
 description = """
 <br>
-Während meines Studiums habe ich sowohl als Tutor Statistikkurse & Nachhilfe angeboten als auch im erweiterten Freundskreis
-bei vielen empirischen Bachelor- und Masterarbeiten mitgeholfen.
+Während meines Studiums habe ich sowohl als Tutor Statistikkurse & Nachhilfe angeboten als auch im erweiterten Freundeskreis
+bei einigen empirischen Bachelor- und Masterarbeiten mitgeholfen.
 <br>
-Jetzt arbeite ich in Teilzeit an einer Forschungseinrichtung und möchte mit der <strong>StatistikWerkstatt</strong>
-eine Anlaufstelle in Leipzig anbieten, gemeinsam mit Statistik zu arbeiten.
+Die Vermittlung von Statistik hat mir so viel Freude bereitet, dass ich mir vornahm in Leipzig einen außeruniversitären, zwanglosen Raum anzubieten
+in dem gemeinsam mit Statistik gearbeitet werden kann - die <strong>StatistikWerkstatt</strong> ist das Resultat dieses Wunsches.<br>
+Nachdem ich nun dutzende Abschlussarbeiten betreut und in verschiedensten Fächern Nachhilfe gegeben kann ich sagen, dass es mir immer noch sehr sehr viel Spaß macht. <br>
+Also melde dich gerne und komm in den Leipziger Westen.
 <br><br>
 <h2>Kontakt</h2>
 <a href="mailto:statistikwerkstatt@posteo.de">Per Mail</a>
-<a href="http://www.facebook.com/statistikwerkstatt.org" target="_blank">Per Facebook</a>
+<a href="http://www.facebook.com/statistikwerkstatt.org" target="_blank">Per Facebook (deaktiviert)</a>
 <br><br><br>
 <br><br><br>
 <br><br><br>
@@ -98,12 +100,11 @@ eine Anlaufstelle in Leipzig anbieten, gemeinsam mit Statistik zu arbeiten.
 """
 [[items]]
 title = "Bezahlung"
-image = "images/full/green.png"
+image = "images/full/kosten_dollar.png"
 thumb = "images/thumbs/green.png"
 alt = "Kosten"
 description = """
 <br>
-<i>Anmerkung</i>: Die hier aufgelisteten Kosten sind nicht in Stein gemeißelt sondern dienen als Richtlinie. <br><br>
 Eine erste Beratung zu deinen Problemen ist immer kostenfrei.<br>
 Wenn du mehr als einen groben Fahrplan für deine Arbeit/dein Projekt benötigst sind die Stundenpreise wie folgt:
 <br><br>
@@ -136,9 +137,11 @@ description = """
 <a href="http://matheguru.com/stochastik/272-korrelation.html#Wann_welchen_Korrelationskoeffizienten_einsetzen_Tabelle-29" target="_blank">Übersicht vieler Zusammenhangsmaße</a>
 <a href="http://www.methodenberatung.uzh.ch/de/datenanalyse.html" target="_blank">Interaktive Methodenberatung der Uni Zürich</a>
 <br><br>
-<h2>Leipzig</h2>
-<a href="http://www.schwarzdrucke.org" target="_blank">Schwarz Druck</a>
+<h2>Leipziger Westen</h2>
+<a href="http://www.schwarzdrucke.de" target="_blank">Schwarz Druck</a>
 <a href="http://www.schwarzwurzel.org" target="_blank">Die Schwarzwurzel</a>
+<a href="http://www.architekturapotheke.de/" target="_blank">ArchitekturApotheke</a>
+<a href="http://fahrradselbsthilfewerkstatt.de/" target="_blank">Fahrradselbsthilfewerkstatt</a>
 <br><br><br>
 <br><br><br>
 <br><br><br>
@@ -153,7 +156,7 @@ description = """
 """
 url="https://statistikwerkstatt.org"
 [[items]]
-title = "Datenvisualisierung: <br>Flüchtlinge (in Arbeit)"
+title = "Datenvisualisierung: <br>Eine gerechte Flüchtlings-Verteilung"
 image = "images/full/small.png"
 thumb = "images/thumbs/ref4.jpg"
 alt = "Refugees"
@@ -164,8 +167,8 @@ diese nach fairen Kriterien (BIP, Bevölkerungsanzahl, Arbeitslosigkeit, Asylbel
 <br><br/>
 Und wie vergleicht sich diese <strong>faire</strong> Verteilung mit der Realität?
 <br>
-<a href="http://statistikwerkstatt.org/shiny/refugee-distribution/shiny/" target="_blank">Zur Datenvisualisierung (englisch)</a>
-<a href="http://statistikwerkstatt.org/shiny/refugee-verteilung/shiny/" target="_blank">Zur Datenvisualisierung (deutsch)</a>
+<a href="http://statistikwerkstatt.org:3838/refugee-distribution/shiny/" target="_blank">Zur Datenvisualisierung (englisch)</a>
+<a href="http://statistikwerkstatt.org:3838/refugee-verteilung/shiny/" target="_blank">Zur Datenvisualisierung (deutsch)</a>
 <br><br><br>
 <br><br><br>
 <br><br><br>

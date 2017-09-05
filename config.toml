@@ -15,7 +15,7 @@ publishdir = "public"
 [params]
     # Meta
     title = "StatistikWerkstatt Leipzig"
-    subtitle = "Offene Selbsthilfewerkstatt für statistische Fragen&Probleme"
+    subtitle = "Anlaufstelle für statistische Fragen&Probleme"
     author = "George Black"
     description = "Offene Selbsthilfewerkstatt für statistische Fragen&Probleme im Leipziger Westen"
     keywords = "Hilfe, Statistik, Leipzig, Nachhilfe, Daten, Auswertung, Statistics"
